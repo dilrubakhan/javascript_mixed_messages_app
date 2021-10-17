@@ -5,6 +5,11 @@ body {
     margin-top: 2in;
     margin-left: 2in;
     margin-right: 1in;
-    width: max-content;
+    width: 6in;
     height: 3in;
+}
+
+.btn {
+    margin-left: 20%;
+    margin-bottom: 10%;
 }
