@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+}
+.card{
+    margin-top: 2in;
+    margin-left: 2in;
+    margin-right: 1in;
+    width: max-content;
+    height: 3in;
+}
